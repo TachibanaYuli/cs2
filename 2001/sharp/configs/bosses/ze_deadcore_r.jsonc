@@ -26,9 +26,27 @@
       "iterator": "radiation_hpcounter",
       "mass": 41,
       "counter": "radiation_hpmasscounter",
-      "increase": true,
+      "reverse": true,
       "hitbox": "radiation_target",
       "display": "Deadcore"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "2147",
+      "display": "NPC"
+    },
+    {
+      "identity": "1987",
+      "display": "NPC"
+    },
+    {
+      "identity": "1893",
+      "display": "NPC"
+    },
+    {
+      "identity": "991",
+      "display": "NPC"
     }
   ]
 }
