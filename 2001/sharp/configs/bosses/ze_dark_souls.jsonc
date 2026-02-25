@@ -63,14 +63,17 @@
       "display": "巨人法官"
     }
   ],
+  "Breakables": [
+    {
+      "target": "Borov_01_hitbox",
+      "display": "野猪",
+      "hitbox": "Borov_01_Model"
+    }
+  ],
   "Monsters": [
     {
       "identity": "143386",
       "display": "黑骑士"
-    },
-    {
-      "identity": "143390",
-      "display": "野猪"
     },
     {
       "identity": "145197",
